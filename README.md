@@ -1,5 +1,5 @@
 # <i>Cifra de Vigenère</i>👨🏻‍💻
-<p align="justify"> O código é uma implementação de um cifra de substituição polialfabética, conhecida como "cifra de Vigenère". Ele recebe uma string de texto `plain` e um valor inteiro `key` como entrada e retorna uma versão cifrada da string.
+<p align="justify"> O código é uma implementação de um cifra de substituição polialfabética, conhecida como "cifra de Vigenère". Ele recebe uma string de texto `plain` e um valor inteiro `key` como entrada e retorna uma versão cifrada da string.</p>
 
 1. Na primeira linha, a importação da biblioteca `string` é feita para obter a sequência de caracteres contendo todas as letras minúsculas do alfabeto inglês.
 
@@ -27,4 +27,4 @@
 
 13. O resultado e a chave correspondente são impressos na tela usando o comando `print(f'{possible_answer}, Key:{i+1}')`. A variável `i` é incrementada em 1 para exibir a chave atual começando de 1 em vez de 0.
 
-Dessa forma, o código testa todas as possíveis chaves e imprime os resultados cifrados correspondentes para cada chave. Isso pode ser usado para determinar a chave correta e decifrar o texto original.</p>
+Dessa forma, o código testa todas as possíveis chaves e imprime os resultados cifrados correspondentes para cada chave. Isso pode ser usado para determinar a chave correta e decifrar o texto original.
