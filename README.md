@@ -1,4 +1,4 @@
-# Vigenere
+# <i>Cifra de Vigenère</i>👨🏻‍💻
 
 O código é uma implementação de um cifra de substituição polialfabética, conhecida como "cifra de Vigenère". Ele recebe uma string de texto `plain` e um valor inteiro `key` como entrada e retorna uma versão cifrada da string.
 
