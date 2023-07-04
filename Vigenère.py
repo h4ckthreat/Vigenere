@@ -1,4 +1,4 @@
- #IFBWZ TDBMF BCTPSC FMEFS
+ #CKZPYAC QSZHCAR EYKC QSNNJW
 import string
 def poly(plain:str,key:int) -> str:
     plain,charset=plain.lower(),{}
